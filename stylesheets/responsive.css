@@ -1,0 +1,355 @@
+@media only screen and (min-width: 1140px) and (max-width: 1279px) {
+  .sootnosheniye {
+    padding-bottom: 960.056%;
+  }
+  h2 {font-size: 60px;}
+  p, .mail_link {font-size: 20px;}
+  h3 {font-size: 13px;}
+  span {font-size: 13px;}
+}
+@media only screen and (min-width: 880px) and (max-width: 1139px) {
+  .sootnosheniye {
+    padding-bottom: 1600.056%;
+  }
+  #first_img {
+    right: 38%; top: 3%;
+  }
+  h2 {font-size: 60px;}
+  p, .mail_link {font-size: 20px; width: 70%; line-height: 30px}
+  .photo_text {width: 70%; height: 35%;}
+  .box {display: block; }
+  .gallery_block {width: 100%; height: 65%;}
+  .box1 {height: 6.5%;}
+  .box2 {height: 6%;}
+  .box3 {height: 6%;}
+  .box4 {height: 5%;}
+  .box5 {height: 5%;}
+  .box6 {height: 8%;}
+  .box7 {height: 5.5%;}
+  .box8 {height: 5%;}
+  .box9 {height: 6.5%;}
+  .box10 {height: 4%;}
+  .gallery_block3 {height: 75%}
+  .photo_text3 {height: 25%;}
+  .photo_text4 {height: 20%;}
+  .photo_text5 {height: 25%;}
+  .photo_text6 {height: 50%;}
+  .photo_text8 {height: 25%;}
+  .photo_text9 {height: 42%;}
+  .photo_text10 {height: 10%;}
+  .gallery_block4 {height: 80%}
+  .gallery_block5 {height: 75%}
+  .gallery_block6 {height: 50%}
+  .gallery_block8 {height: 75%}
+  .gallery_block9 {height: 58%}
+  .gallery_block10 {height: 90%}
+  .video {margin: 5.2% 9% 17.8% 9%; width: 82%;}
+  .under_photo_el4_1 {margin: 0 2%;}
+  .under_photo5 {padding: 0.5% 21.7% 1% 21.7%;}
+  .under_photo6 {padding: 1.2% 27% 0.04% 29.8%;}
+  .under_photo9 {padding: 1.2% 34% 0.04% 35.1%;}
+
+}
+@media only screen and (min-width: 701px) and (max-width: 879px) {
+  .sootnosheniye {
+    padding-bottom: 1700.056%;
+  }
+  #first_img {
+    right: 25%; top: 3.2%; width: 50%;
+  }
+  h1 {font-size: 60px;}
+  .name {margin-bottom: 50%;}
+  h2 {font-size: 60px;}
+  p, .mail_link {font-size: 20px; width: 70%; line-height: 30px}
+  .photo_text {width: 70%; height: 35%;}
+  .box {display: block; }
+  .gallery_block {width: 100%; height: 65%;}
+  .box1 {height: 6.5%;}
+  .box2 {height: 6.5%;}
+  .box3 {height: 6%;}
+  .box4 {height: 5%;}
+  .box5 {height: 5%;}
+  .box6 {height: 8.5%;}
+  .box7 {height: 5.5%;}
+  .box8 {height: 5.5%;}
+  .box9 {height: 7.5%;}
+  .box10 {height: 4%;}
+  .gallery_block3 {height: 75%}
+  .photo_text2 {height: 45%;}
+  .photo_text3 {height: 35%;}
+  .photo_text4 {height: 30%;}
+  .photo_text5 {height: 30%;}
+  .photo_text6 {height: 57%;}
+  .photo_text8 {height: 30%;}
+  .photo_text9 {height: 52%;}
+  .photo_text10 {height: 10%;}
+  .gallery_block2 {height: 55%}
+  .gallery_block3 {height: 65%}
+  .gallery_block4 {height: 70%}
+  .gallery_block5 {height: 70%}
+  .gallery_block6 {height: 43%}
+  .gallery_block8 {height: 70%}
+  .gallery_block9 {height: 48%}
+  .gallery_block10 {height: 90%}
+  .video {margin: 5.2% 9% 17.8% 9%; width: 82%; height: 3%;}
+  .under_photo_el4_1 {margin: 0 2%;}
+  .under_photo5 {padding: 0.5% 21.7% 1% 21.7%;}
+  .under_photo3 {height: 16%;}
+  .under_photo6 {padding: 1.2% 27% 0.04% 29.8%;}
+  .under_photo9 {padding: 1.2% 34% 0.04% 35.1%;}
+  .under_photo10 {padding: 1.2% 34.1% 0.04% 34.1%;}
+  .gallery_photo8 {height: 85%;}
+  .bbb {margin-left: -1%;}
+
+}
+@media only screen and (min-width: 620px) and (max-width: 700px) {
+  .sootnosheniye {
+    padding-bottom: 1900.056%;
+  }
+  #first_img {
+    right: 20%; top: 3.2%; width: 60%;
+  }
+  h1 {font-size: 40px;}
+  .name {margin-bottom: 80%; margin-top: 20%;}
+  h2 {font-size: 40px;}
+  p, .mail_link {font-size: 16px; width: 70%; line-height: 26px}
+  .photo_text {width: 70%; height: 45%;}
+  .box {display: block; }
+  .gallery_block {width: 100%; height: 55%;}
+  .box1 {height: 6.5%;}
+  .box2 {height: 6.5%;}
+  .box3 {height: 6%;}
+  .box4 {height: 5.5%;}
+  .box5 {height: 5%;}
+  .box6 {height: 8.5%;}
+  .box7 {height: 6%;}
+  .box8 {height: 5.5%;}
+  .box9 {height: 7.5%;}
+  .box10 {height: 4%;}
+  .gallery_block3 {height: 75%}
+  .photo_text2 {height: 45%;}
+  .photo_text3 {height: 40%;}
+  .photo_text4 {height: 35%;}
+  .photo_text5 {height: 30%;}
+  .photo_text6 {height: 63%;}
+  .photo_text8 {height: 35%;}
+  .photo_text9 {height: 52%;}
+  .photo_text10 {height: 20%;}
+  .gallery_block2 {height: 55%}
+  .gallery_block3 {height: 65%}
+  .gallery_block4 {height: 70%}
+  .gallery_block5 {height: 70%}
+  .gallery_block6 {height: 37%}
+  .gallery_block8 {height: 65%}
+  .gallery_block9 {height: 48%}
+  .gallery_block10 {height: 80%}
+  .video {margin: 5.2% 9% 17.8% 9%; width: 82%; height: 2.5%;}
+  .under_photo_el4_1 {margin: 0 2%;}
+  .under_photo5 {padding: 0.5% 21.7% 1% 21.7%;}
+  .under_photo3 {height: 16%;}
+  .under_photo6 {padding: 1.2% 27% 0.04% 29.8%;}
+  .under_photo9 {padding: 1.2% 34% 0.04% 35.1%;}
+  .under_photo10 {padding: 1.2% 34.1% 0.04% 34.1%;}
+  .gallery_photo8 {height: 85%;}
+  .bbb {margin-left: -1%;}
+
+}
+@media only screen and (min-width: 500px) and (max-width: 619px) {
+  .sootnosheniye {
+    padding-bottom: 2100.056%;
+  }
+  #first_img {
+    right: 20%; top: 3.5%; width: 60%;
+  }
+  h1 {font-size: 40px;}
+  .name {margin-bottom: 100%; margin-top: 30%;}
+  h2 {font-size: 40px;}
+  p, .mail_link {font-size: 16px; width: 70%; line-height: 26px}
+  .photo_text {width: 70%; height: 55%;}
+  .box {display: block; }
+  .gallery_block {width: 100%; height: 45%;}
+  .box1 {height: 7%;}
+  .box2 {height: 6.5%;}
+  .box3 {height: 6%;}
+  .box4 {height: 5%;}
+  .box5 {height: 5%;}
+  .box6 {height: 9%;}
+  .box7 {height: 5.5%;}
+  .box8 {height: 5%;}
+  .box9 {height: 7.5%;}
+  .box10 {height: 4%;}
+  .gallery_block3 {height: 75%}
+  .photo_text2 {height: 50%;}
+  .photo_text3 {height: 45%;}
+  .photo_text4 {height: 40%;}
+  .photo_text5 {height: 35%;}
+  .photo_text6 {height: 68%;}
+  .photo_text7 {height: 50%;}
+  .photo_text8 {height: 40%;}
+  .photo_text9 {height: 57%;}
+  .photo_text10 {height: 20%;}
+  .gallery_block2 {height: 50%}
+  .gallery_block3 {height: 55%}
+  .gallery_block4 {height: 60%}
+  .gallery_block5 {height: 65%}
+  .gallery_block6 {height: 32%}
+  .gallery_block7 {height: 50%}
+  .gallery_block8 {height: 60%}
+  .gallery_block9 {height: 43%}
+  .gallery_block10 {height: 80%}
+  .video {margin: 20% 9% 17.8% 9%; width: 82%; height: 2.5%;}
+  .under_photo2 {padding: 1.2% 16.7% 0.3% 15.7%;}
+
+  .under_photo_el4_1 {margin: 0 2%;}
+  .under_photo5 {padding: 0.5% 14.7% 1% 14.7%;}
+  .under_photo3 {height: 16%; padding: 1.2% 9.5% 0.3% 9.5%;}
+  .under_photo6 {padding: 1.2% 27% 0.04% 29.8%;}
+  .under_photo9 {padding: 1.2% 32% 0.04% 32.1%;}
+  .under_photo10 {padding: 1.2% 32% 0.04% 32.1%;}
+  .gallery_photo8 {height: 85%;}
+  .bbb {margin-left: -1%;}
+}
+@media only screen and (min-width: 400px) and (max-width: 499px) {
+  .sootnosheniye {
+    padding-bottom: 2400.056%;
+  }
+  #first_img {
+    right: 20%; top: 3.8%; width: 60%;
+  }
+  h1 {font-size: 30px;}
+  .name {margin-bottom: 120%; margin-top: 50%;}
+  h2 {font-size: 30px;}
+  p, .mail_link, .links {font-size: 16px; width: 70%; line-height: 26px}
+
+  .photo_text {width: 70%; height: 65%;}
+  .box {display: block; }
+  .gallery_block {width: 100%; height: 35%;}
+  .box1 {height: 7%;}
+  .box2 {height: 6.5%;}
+  .box3 {height: 5.5%;}
+  .box4 {height: 4.5%;}
+  .box5 {height: 5%;}
+  .box6 {height: 10.5%;}
+  .box7 {height: 6%;}
+  .box8 {height: 5.5%;}
+  .box9 {height: 8.5%;}
+  .box10 {height: 3.5%;}
+  .gallery_block3 {height: 75%}
+  .photo_text2 {height: 60%;}
+  .photo_text3 {height: 55%;}
+  .photo_text4 {height: 45%;}
+  .photo_text5 {height: 45%;}
+  .photo_text6 {height: 73%;}
+  .photo_text7 {height: 60%;}
+  .photo_text8 {height: 50%;}
+  .photo_text9 {height: 70%;}
+  .photo_text10 {height: 20%;}
+  .gallery_block2 {height: 40%}
+  .gallery_block3 {height: 45%}
+  .gallery_block4 {height: 55%}
+  .gallery_block5 {height: 55%}
+  .gallery_block6 {height: 27%}
+  .gallery_block7 {height: 40%}
+  .gallery_block8 {height: 50%}
+  .gallery_block9 {height: 30%}
+  .gallery_block10 {height: 80%}
+  .video {margin: 20% 9% 17.8% 9%; width: 82%; height: 2.5%;}
+  .under_photo2 {padding: 1.2% 16.7% 0.3% 15.7%;}
+
+  .under_photo_el4_1 {margin: 0 2%;}
+  .under_photo5 {padding: 0.5% 14.7% 1% 14.7%;}
+  .under_photo3 {height: 16%; padding: 1.2% 9.5% 0.3% 9.5%;}
+
+  .under_photo6 {padding: 1.2% 24.5% 0.04% 24.5%}
+  .under_photo7 {padding: 1.2% 5.4% 0.2% 5.4%}
+  .under_photo9 {padding: 1.2% 33% 0.04% 33.1%;}
+  .under_photo10 {padding: 1.2% 32% 0.04% 32.1%;}
+  .gallery_photo8 {height: 85%;}
+  .bbb {margin-left: -1%;}
+
+}
+
+@media only screen and (max-width: 399px) {
+  .sootnosheniye {
+    padding-bottom: 3000.056%;
+  }
+  #first_img {
+    right: 20%; top: 3.4%; width: 60%;
+  }
+  h1 {font-size: 24px;}
+  .name {margin-bottom: 120%; margin-top: 40%;}
+  h2 {font-size: 30px;}
+  p, .mail_link, .links {font-size: 15px; width: 70%; line-height: 24px}
+
+  .photo_text {width: 70%; height: 72%;}
+  .box {display: block; }
+  .gallery_block {width: 100%; height: 28%;}
+  .box1 {height: 7.5%;}
+  .box2 {height: 6.8%;}
+  .box3 {height: 6%;}
+  .box4 {height: 4.2%;}
+  .box5 {height: 4.3%;}
+  .box6 {height: 11.5%;}
+  .box7 {height: 6.3%;}
+  .box8 {height: 5%;}
+  .box9 {height: 9.3%;}
+  .box10 {height: 3%;}
+  .gallery_block3 {height: 75%}
+  .photo_text2 {height: 66%;}
+  .photo_text3 {height: 65%;}
+  .photo_text4 {height: 55%;}
+  .photo_text5 {height: 50%;}
+  .photo_text6 {height: 80%;}
+  .photo_text7 {height: 65%;}
+  .photo_text8 {height: 55%;}
+  .photo_text9 {height: 77%;}
+  .photo_text10 {height: 30%;}
+  .gallery_block2 {height: 35%}
+  .gallery_block3 {height: 35%}
+  .gallery_block4 {height: 45%}
+  .gallery_block5 {height: 50%}
+  .gallery_block6 {height: 20%}
+  .gallery_block7 {height: 35%}
+  .gallery_block8 {height: 45%}
+  .gallery_block9 {height: 23%}
+  .gallery_block10 {height: 70%}
+  .video {margin: 20% 9% 17.8% 9%; width: 82%; height: 2%;}
+  .under_photo2 {padding: 1.2% 16.7% 0.3% 15.7%;}
+
+  .under_photo_el4_1 {margin: 0 2%;}
+  .under_photo5 {padding: 0.5% 14.7% 1% 14.7%;}
+  .under_photo3 {height: 16%; padding: 1.2% 11.5% 0.3% 11.5%;}
+
+  .under_photo6 {padding: 1.2% 24.5% 0.04% 24.5%}
+  .under_photo7 {padding: 1.2% 2.4% 0.2% 2.4%;}
+  .under_photo9 {padding: 1.2% 33% 0.04% 33.1%;}
+  .under_photo10 {padding: 1.2% 32% 0.04% 32.1%;}
+  .gallery_photo8 {height: 85%;}
+  .bbb {margin-left: -1%;}
+
+}
+
+@media only screen and (min-width: 1265px) and (max-width: 1420px) {
+  .menubar a {font-size: 16px;}
+}
+@media only screen and (min-width: 1197px) and (max-width: 1264px) {
+  .menubar a {font-size: 16px; margin-left: 3%; margin-right: 2%;}
+}
+@media only screen and (min-width: 1011px) and (max-width: 1196px) {
+  .menubar a {font-size: 16px; margin-left: 2%; margin-right: 1%;}
+}
+@media only screen and (min-width: 915px) and (max-width: 1010px) {
+  .menubar a {font-size: 16px; margin-left: 1%; margin-right: 0.5%;}
+}
+@media only screen and (min-width: 810px) and (max-width: 914px) {
+  .menubar a {font-size: 14px; margin-left: 1%; margin-right: 0.5%;}
+}
+@media only screen and (min-width: 500px) and (max-width: 809px) {
+  .menubar a {font-size: 14px; margin-left: 2%; margin-right: 1.5%;}
+}
+@media only screen and  (min-width: 400px) and (max-width: 499px) {
+  .menubar a {font-size: 12px; margin-left: 2%; margin-right: 1.5%;}
+}
+@media only screen and (min-width: 320px) and (max-width: 399px) {
+  .menubar a {font-size: 10px; margin-left: 1%; margin-right: 0.5%;}
+}
