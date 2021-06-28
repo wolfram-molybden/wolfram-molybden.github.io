@@ -301,21 +301,7 @@ span {
 .box6 {
   height: 4.29%;
 }
-#menubar_3 {
-  margin-bottom: 15.6%;
-}
-#menubar_4 {
-  margin-bottom: 15.6%;
-}
-#menubar_5 {
-  margin-bottom: 15.6%;
-}
-#menubar_6 {
-  margin-bottom: 15.6%;
-}
-#menubar_3_extra {
-  height: 1.5%;
-}
+
 .box7 {
   height: 4.1%;
 
@@ -370,12 +356,7 @@ span {
 .docs {
   margin-bottom: 3.9%;
 }
-#first_img {
-  position: absolute;
-  width: 21.5%;
-  top: 1.4%;
-  right: 8%;
-}
+
 .photo_block {
   transition: all .5s;
 }
@@ -398,9 +379,7 @@ span {
   right: 0;
   top: 1.5%;
 }
-#menubar_2 {
-  height: 0.005%;
-}
+
 .menubar_content a:hover, .logo:hover {
   color: #74FACB;
   transition: all .1s;
@@ -467,4 +446,28 @@ svg path {
   opacity: 100%;
   transition: all .1s;
   cursor: pointer;
+}
+#first_img {
+  position: absolute;
+  width: 21.5%;
+  top: 1.4%;
+  right: 8%;
+}
+#menubar_2 {
+  height: 0.005%;
+}
+#menubar_3 {
+  margin-bottom: 15.6%;
+}
+#menubar_4 {
+  margin-bottom: 15.6%;
+}
+#menubar_5 {
+  margin-bottom: 15.6%;
+}
+#menubar_6 {
+  margin-bottom: 15.6%;
+}
+#menubar_3_extra {
+  height: 1.5%;
 }
